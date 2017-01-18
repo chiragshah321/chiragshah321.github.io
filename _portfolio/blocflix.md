@@ -1,34 +1,44 @@
 ---
 layout: post
-title: BlocFlix
-thumbnail-path: "img/blocflix.png"
-short-description: BlocFlix is a Netflix replica for finding the best movies and watching them online.
+title: Blocjams
+thumbnail-path: "img/blocjams.png"
+short-description: Blocjams is an online music app that plays your favorite music.
 
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/blocflix.png)
+![]({{ site.baseurl }}/img/blocjams.png)
 
 ## Explanation
 
-Bacon ipsum dolor amet filet mignon meatball spare ribs fatback bacon shankle. Kielbasa andouille fatback salami, boudin bresaola pig alcatra turkey spare ribs jerky. Corned beef bresaola leberkas salami alcatra beef landjaeger venison shank bacon meatloaf beef ribs picanha. Leberkas sausage brisket porchetta shankle prosciutto chicken picanha kielbasa pig kevin t-bone turducken filet mignon jowl.
+People want music at their finger tips, all the time, everywhere. Sure, there's youtube, spotify, and a variety of other music apps. But, with blocjams, you can utilize a web application just for your music.
 
 ## Problem
 
-Bacon ipsum dolor amet filet mignon meatball spare ribs fatback bacon shankle. Kielbasa andouille fatback salami, boudin bresaola pig alcatra turkey spare ribs jerky. Corned beef bresaola leberkas salami alcatra beef landjaeger venison shank bacon meatloaf beef ribs picanha. Leberkas sausage brisket porchetta shankle prosciutto chicken picanha kielbasa pig kevin t-bone turducken filet mignon jowl.
+Accessing music through a static website is almost impossible, and if it is, it's frustrating. For Blocjams, it was necessary to circumvent this frustration by allowing a user to simply enter the web app and begin playing music by pressing play. 
+Additionally, accessing a web application that plays music on a mobile phone can be cumbersome and buggy, hence making the Blocjams player responsive was critical. In brief, the two problems I was trying to address here was:
+
+
+* Static website music players, which only allowed access to one type of music and not a myriad of albums.
+* A responsive audio player accesible anywhere. 
 
 ## Solution
 
-Bacon ipsum dolor amet filet mignon meatball spare ribs fatback bacon shankle. Kielbasa andouille fatback salami, boudin bresaola pig alcatra turkey spare ribs jerky. Corned beef bresaola leberkas salami alcatra beef landjaeger venison shank bacon meatloaf beef ribs picanha. Leberkas sausage brisket porchetta shankle prosciutto chicken picanha kielbasa pig kevin t-bone turducken filet mignon jowl.
+Using a variety of images, music files, and javascript libraries, the Blocjams player was born. The assets included images of albums and audio files from those albums. Jquery was used to create dynamic movements within the Blocjams player bar and also allowed for simple selection within the album. 
+Consequently, users could easily switch, play, or pause songs in the player bar. Lastly, the player bar itself was adjustable via jquery selectors and handlers. The audio player song file was enabled via the buzz API, which allowed users to better interact with the player bar and the volume of the song. 
 
 ## Results
 
-Bacon ipsum dolor amet filet mignon meatball spare ribs fatback bacon shankle. Kielbasa andouille fatback salami, boudin bresaola pig alcatra turkey spare ribs jerky. Corned beef bresaola leberkas salami alcatra beef landjaeger venison shank bacon meatloaf beef ribs picanha. Leberkas sausage brisket porchetta shankle prosciutto chicken picanha kielbasa pig kevin t-bone turducken filet mignon jowl.
+The Blocjams static home page, album collection page, and also album contents page. The static page was an aesthetically pleasing introduction to the website and its capabilties. By selecting _collection_ users could access the entirety of the albums available. 
+Thereafter, they could select the album of their choice. Once in the album, users could begin playing by simply selecting the play button. Switching was conducted via the player bar or by selecting a new song. And the user also had the option of changing the place in the song and the volume of the song. 
 
-> Bacon ipsum dolor amet filet mignon meatball spare ribs fatback bacon shankle. Kielbasa andouille fatback salami, boudin bresaola pig alcatra turkey spare ribs jerky. Corned beef bresaola leberkas salami alcatra beef landjaeger venison shank bacon meatloaf beef ribs picanha. Leberkas sausage brisket porchetta shankle prosciutto chicken picanha kielbasa pig kevin t-bone turducken filet mignon jowl.
+> The Blocjams player only had three pages, but due to its functionality, it provided the music obsessed listener with direct access to what matters most, the song. 
 
-Bacon ipsum dolor amet filet mignon meatball spare ribs fatback bacon shankle. Kielbasa andouille fatback salami, boudin bresaola pig alcatra turkey spare ribs jerky. Corned beef bresaola leberkas salami alcatra beef landjaeger venison shank bacon meatloaf beef ribs picanha. Leberkas sausage brisket porchetta shankle prosciutto chicken picanha kielbasa pig kevin t-bone turducken filet mignon jowl.
+To ensure responsiveness, I used certain CSS styling that augmented the structure if the screen size changed. Hence, the music lover could find, select, and play the song of their choice anywhere. 
 
 ## Conclusion
 
-Bacon ipsum dolor amet filet mignon meatball spare ribs fatback bacon shankle. Kielbasa andouille fatback salami, boudin bresaola pig alcatra turkey spare ribs jerky. Corned beef bresaola leberkas salami alcatra beef landjaeger venison shank bacon meatloaf beef ribs picanha. Leberkas sausage brisket porchetta shankle prosciutto chicken picanha kielbasa pig kevin t-bone turducken filet mignon jowl.
+I was surprised to discover how simple API plugins and jquery could create such a dynamic webpage. Further, I learned the DOM, its magnificent usefulness, and how CSS selectors are used across the an interface. 
+
+ **I learned that labeling functions very specifically was key in efficiency as my codebase grew.**  
+
