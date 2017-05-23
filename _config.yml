@@ -22,7 +22,7 @@ theme_settings:
   behance:
   bitbucket:
   dribbble:
-  facebook:
+  facebook: https://www.facebook.com/chirag.shah.5264
   flickr:
   github: chiragshah321
   google_plus:
@@ -31,12 +31,12 @@ theme_settings:
   pinterest:
   reddit:
   soundcloud:
-  stack_exchange:  # Full URL
+  stack_exchange:  
   steam:
   tumblr:
-  twitter:
+  twitter: https://twitter.com/chigamus
   wordpress:
-  youtube:
+  youtube: 
 
   # Scripts
   google_analytics: "UA-90593420-1"
