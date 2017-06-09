@@ -5,7 +5,8 @@ permalink: /about/
 feature-img: "img/color.png"
 ---
 
-I'm a young dude just trying to make meaning in this wild world. I can't classify myself as anything in particular, but I'll try to give you a definition of who I am. 
+I'm a young dude just trying to make meaning in this wild world. Before I get into my professional life, I want to let you know who I am on a deeper level. 
+I can't classify myself as anything in particular, but I'll try to give you a definition of who I am. 
 
 **A Life of Virtue**
 
@@ -24,7 +25,21 @@ And by contributing, I mean helping via mentoring or connecting.
 I'm a simple dude, just trying to become the best human I can be. I make mistakes, I learn from them to become more refined. I hope if I make enough I'll help you make
 some yourself.
 
-I'm always available to chat or help, so just give me a holler. 
+**Few Professional Accomplishments**
+
+Co-founder of [Rapidocc](https://www.rapidocc.com). A medical SaaS that streamlines the after-hours care process. To date, it serves over 30 practices and continues to grow, albeit passively.
+I started the company during my MBA progam at [Babson College](http://www.babson.edu/Pages/default.aspx). It solved two inherent problems with the medical industry - point of contact information,
+and documentation of after-hours calls. Led product development efforts with my co-founder, Ashok Vairavan.
+
+Built [Chronica](www.chronicacare.com). Though I didn't take this too far, I led the product development effort for Chronica, a care coordination application for the medical industry. 
+The goal of Chronica is to in-source care for patients with two or more chronic conditions. 
+
+I've also worked at [Bridgeway Capital](https://www.bridgewaycapital.org/) as a Credit Analyst, and also [Vanguard](https://investor.vanguard.com/corporate-portal/) as a Portfolio Specialist.
+
+In addition to my short professional career, I've spent a lot of time volunteering with organizations. Specifically, I've acted a basketball coach, mentee, and economics teacher to 
+at-risk youth. 
+
+
 
 
 

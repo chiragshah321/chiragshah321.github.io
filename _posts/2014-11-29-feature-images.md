@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why Web Dev?
+title: Why Am I Coding?
 ---
 Speaking code is tough. Especially when your financial livelihood depends on it. That's why I started web development, because I want to communicate with people on my founding team intelligently to get stuff done. Knowing what they're doing, how they're doing it, and why they're doing it that way is critical when you've founded a small tech company. 
 

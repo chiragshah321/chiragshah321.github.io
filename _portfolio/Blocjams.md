@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Blocjams
-thumbnail-path: "img/blocjams.png"
 short-description: Blocjams is an online music app that plays your favorite music.
 
 ---

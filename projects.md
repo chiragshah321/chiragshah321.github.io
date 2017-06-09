@@ -4,9 +4,7 @@ title: Projects
 permalink: /projects/
 feature-img: "img/color.png"
 ---
-
   <div class="work">
-    <h2>My Work</h2>
     {% for project in site.portfolio limit:10 %}
     <div class="project">
       <div class="project-thumb">

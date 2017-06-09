@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Biggest Challenge
+title: My Biggest Challenge As A Developer
 ---
 
 I recently came across the book, [Think Like a Programmer](https://www.nostarch.com/thinklikeaprogrammer), by Anton V. Spraul. It made me realize, that after _learning_ a language, the difficulty lies in solving problems.
