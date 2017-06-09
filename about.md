@@ -20,11 +20,6 @@ Sure, philosophizing is exhilirating, but actually doing something with wisdom i
 By building, I mean medical technology companies. By learning, I mean reading, listening, or discussing topics such as web development, global culture and artifacts, entrepreneurship, and almost everthing in between. 
 And by contributing, I mean helping via mentoring or connecting. 
 
-**All The Other Stuff**
-
-I'm a simple dude, just trying to become the best human I can be. I make mistakes, I learn from them to become more refined. I hope if I make enough I'll help you make
-some yourself.
-
 **Few Professional Accomplishments**
 
 Co-founder of [Rapidocc](https://www.rapidocc.com). A medical SaaS that streamlines the after-hours care process. To date, it serves over 30 practices and continues to grow, albeit passively.
@@ -36,7 +31,7 @@ The goal of Chronica is to in-source care for patients with two or more chronic 
 
 I've also worked at [Bridgeway Capital](https://www.bridgewaycapital.org/) as a Credit Analyst, and also [Vanguard](https://investor.vanguard.com/corporate-portal/) as a Portfolio Specialist.
 
-In addition to my short professional career, I've spent a lot of time volunteering with organizations. Specifically, I've acted a basketball coach, mentee, and economics teacher to 
+In addition to my short professional career, I've spent a lot of time volunteering with organizations. Specifically, I've been a basketball coach, mentee, and economics teacher to 
 at-risk youth. 
 
 
