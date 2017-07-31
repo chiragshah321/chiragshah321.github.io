@@ -35,3 +35,7 @@ With the use of AJAX and a custom rake administrative tool, users could create t
 This project was very informative in terms of introducing me to AJAX. I was always curious how other web apps create such a seamless experience, and with some
 basic learning, I now know how to as well!
 
+If you want to fork the application for your own use, click [here](https://github.com/chiragshah321/blocitoff)
+
+If you want to begin using the application, check it out [here](https://damp-hamlet-24832.herokuapp.com/users/sign_in)
+
