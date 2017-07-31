@@ -6,7 +6,7 @@ short-description: Blocitoff that allows users to create self-destructing to-do 
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/blocitoff.png)
+![]({{ site.baseurl }}/img/blocitoff_1.png)
 
 
 ## Explanation
