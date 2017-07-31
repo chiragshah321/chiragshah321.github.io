@@ -2,12 +2,12 @@
 layout: post
 title: Blocitoff 
 short-description: Blocitoff that allows users to create self-destructing to-do lists
-feature-img: "img/blocitoff_1.png"
+feature-img: "img/blocitoff_2.png"
 
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/blocitoff_1.png)
+![]({{ site.baseurl }}/img/blocitoff_2.png)
 
 
 ## Explanation
