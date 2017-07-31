@@ -2,6 +2,7 @@
 layout: post
 title: Blocjams
 short-description: Blocjams is an online music app that plays your favorite music.
+feature-img: "img/blocjams.png"
 
 ---
 
