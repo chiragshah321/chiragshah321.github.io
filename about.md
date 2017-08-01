@@ -5,13 +5,16 @@ permalink: /about/
 feature-img: "img/color.png"
 ---
 
+{:.center}
+![]({{ site.baseurl }}/img/me.jpeg)
+
 I'm a young dude just trying to make meaning in this wild world. Before I get into my professional life, I want to let you know who I am on a deeper level. 
 I can't classify myself as anything in particular, but I'll try to give you a definition of who I am. 
 
 **A Life of Virtue**
 
 My mentors in life, excluding my father, are a variety of practical philosophers. I follow the economic philosophy of Ludwig Von Mises and Muray Rothbard of the Austrian School of Economic Thought.
-I prescribe to the life philosophy of Marcus Aurelius and Epictetus. Moreover, I love meditation, and specifically practice Anapana, Vipassana, and Metta as taught S.N. Goenka. I like to consider
+I prescribe to the life philosophy of Marcus Aurelius and Epictetus. Moreover, I love meditation, and specifically practice Anapana, Vipassana, and Metta as taught by S.N. Goenka. I like to consider
 myself in balance with the Eastern and Western philosophies of time. 
 
 **A Life of Contribution**
@@ -33,6 +36,8 @@ I've also worked at [Bridgeway Capital](https://www.bridgewaycapital.org/) as a 
 
 In addition to my short professional career, I've spent a lot of time volunteering with organizations. Specifically, I've been a basketball coach, mentee, and economics teacher to 
 at-risk youth. 
+
+In my free-time, I enjoy meditating, cooking, programming, reading, star-gazing, traveling, and hiking. 
 
 
 
