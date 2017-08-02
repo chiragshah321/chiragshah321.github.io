@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Products I've Built
+title: Products
 permalink: /companies/
 feature-img: "img/color.png"
 ---
