@@ -1,6 +1,6 @@
 ---
 layout: post
-title: *Professional Project* Chronica
+title: Chronica
 short-description: A platform that allows private medical clinics to manage and bill their chronic care patients
 ---
 

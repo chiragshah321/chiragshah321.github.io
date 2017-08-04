@@ -1,6 +1,6 @@
 ---
 layout: post
-title: *Personal Project* Bloccit
+title: Bloccit
 short-description: Bloccit is a reddit replica that allows users to create posts, upvote posts, and comment on posts
 feature-img: "portfolio-kami/img/blocitt.PNG"
 

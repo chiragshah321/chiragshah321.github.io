@@ -1,6 +1,6 @@
 ---
 layout: post
-title: *Professional Project* Rapidocc
+title: Rapidocc
 short-description: An automated answering service that streamlines after-hours calls for medical clinics
 ---
 
