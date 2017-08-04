@@ -5,13 +5,13 @@ permalink: /companies/
 feature-img: "img/color.png"
 ---
   <div class="work">
-    {% for project in site.portfolio limit:10 %}
+    {% for product in site.product limit:10 %}
     <div class="project">
-        <a href="{{ project.url | prepend: site.baseurl }}">
+        <a href="{{ product.url | prepend: site.baseurl }}">
         </a>
       <div class="project-description">
-        <a href="{{ project.url | prepend: site.baseurl }}"><strong>{{ project.title }}</strong></a>
-        <p>{{ project.short-description }}</p>
+        <a href="{{ product.url | prepend: site.baseurl }}"><strong>{{ product.title }}</strong></a>
+        <p>{{ product.short-description }}</p>
       </div>
     </div>
     {% endfor %}
