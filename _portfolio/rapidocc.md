@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rapidocc
+title: *Professional Project* Rapidocc
 short-description: An automated answering service that streamlines after-hours calls for medical clinics
 ---
 
@@ -27,4 +27,4 @@ short-description: An automated answering service that streamlines after-hours c
 ## Conclusion
 
 
-If you want to learn more about the product, check it out [here.](www.chronicacare.com)
+If you want to learn more about the product, check it out [here.](www.rapidocc.com)

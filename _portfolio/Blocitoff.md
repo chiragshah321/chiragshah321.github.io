@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blocitoff 
+title: *Personal Project* Blocitoff 
 short-description: Blocitoff that allows users to create self-destructing to-do lists
 feature-img: "portfolio-kami/img/blocitoff_2.png"
 

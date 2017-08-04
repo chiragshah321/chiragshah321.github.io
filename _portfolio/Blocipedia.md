@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blocipedia
+title: *Personal Project* Blocipedia
 short-description: Blocipedia allows users to create public and personal wikis 
 
 ---
