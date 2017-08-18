@@ -15,7 +15,7 @@ I love basketball, I also love my Amazon Alexa Tap. I though I'd marry the two b
 ## Problem
 
 I've never developed an Amazon Alexa Skill, and I had no idea how. Fortunately, the folks at Amazon have created multiple templates and tutorials for easy development. I used
-the [Step-by-Step Guide to Build a Trivia Skill](Step-by-Step Guide to Build a Trivia Skill) to build my basic trivia application. Not exactly sure who the author is, but it's such an
+the [Step-by-Step Guide to Build a Trivia Skill](https://github.com/alexa/skill-sample-nodejs-trivia) to build my basic trivia application. Not exactly sure who the author is, but it's such an
 in-depth tutorial, anyone with basic knowledge of programming can build their own skill in less than 2 hours. 
 
 ## Solution
