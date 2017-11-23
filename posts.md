@@ -4,6 +4,8 @@ title: Posts
 permalink: /posts/
 feature-img: "img/color.png"
 ---
+<div class="home">
+
   <div class="posts">
     <h2 class="post-header">Musings</h2>
     <ul>
@@ -29,5 +31,23 @@ feature-img: "img/color.png"
       {% endfor %}
     </ul>
   </div>
+
+  {% if paginator.total_pages > 1 %}
+  <div class="pagination">
+    {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="button" >
+      <i class="fa fa-chevron-left"></i>
+      {{ site.theme_settings.str_prev }}
+    </a>
+    {% endif %}
+    {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="button" >
+      {{ site.theme_settings.str_next }}
+      <i class="fa fa-chevron-right"></i>
+    </a>
+    {% endif %}
+  </div>
+  {% endif %}
+</div>
 
 
