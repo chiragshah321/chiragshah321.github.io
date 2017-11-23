@@ -4,17 +4,30 @@ title: Posts
 permalink: /posts/
 feature-img: "img/color.png"
 ---
-  <div class="work">
-    {% for project in site.portfolio limit:10 %}
-    <div class="project">
-        <a href="{{ project.url | prepend: site.baseurl }}">
+  <div class="posts">
+    <h2 class="post-header">Musings</h2>
+    <ul>
+      {% for post in paginator.posts %}
+      <li class="post-teaser">
+        <header>
+          <h3>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+              {{ post.title }}
+            </a>
+          </h3>
+          <p class="meta">
+            {{ post.date | date: "%B %-d, %Y" }}
+          </p>
+        </header>
+        <div class="excerpt">
+          {{ post.excerpt | | strip_html | strip_newlines | truncate: 120 }}
+        </div>
+        <a href="{{ post.url | prepend: site.baseurl }}">
+          {{ site.theme_settings.str_continue_reading }}
         </a>
-      <div class="project-description">
-        <a href="{{ project.url | prepend: site.baseurl }}"><strong>{{ project.title }}</strong></a>
-        <p>{{ project.short-description }}</p>
-      </div>
-    </div>
-    {% endfor %}
+      </li>
+      {% endfor %}
+    </ul>
   </div>
 
 
