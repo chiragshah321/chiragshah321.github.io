@@ -4,50 +4,17 @@ title: Posts
 permalink: /posts/
 feature-img: "img/color.png"
 ---
-<div class="home">
-
-  <div class="posts">
-    <h2 class="post-header">Musings</h2>
-    <ul>
-      {% for post in paginator.posts %}
-      <li class="post-teaser">
-        <header>
-          <h3>
-            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
-              {{ post.title }}
-            </a>
-          </h3>
-          <p class="meta">
-            {{ post.date | date: "%B %-d, %Y" }}
-          </p>
-        </header>
-        <div class="excerpt">
-          {{ post.excerpt | | strip_html | strip_newlines | truncate: 120 }}
-        </div>
+<div class="work">
+    {% for post in site.post limit:10 %}
+    <div class="post">
         <a href="{{ post.url | prepend: site.baseurl }}">
-          {{ site.theme_settings.str_continue_reading }}
         </a>
-      </li>
-      {% endfor %}
-    </ul>
+      <div class="post-description">
+        <a href="{{ post.url | prepend: site.baseurl }}"><strong>{{ post.title }}</strong></a>
+        <p>{{ post.short-description }}</p>
+      </div>
+    </div>
+    {% endfor %}
   </div>
-
-  {% if paginator.total_pages > 1 %}
-  <div class="pagination">
-    {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="button" >
-      <i class="fa fa-chevron-left"></i>
-      {{ site.theme_settings.str_prev }}
-    </a>
-    {% endif %}
-    {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="button" >
-      {{ site.theme_settings.str_next }}
-      <i class="fa fa-chevron-right"></i>
-    </a>
-    {% endif %}
-  </div>
-  {% endif %}
-</div>
 
 
